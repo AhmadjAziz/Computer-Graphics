@@ -1,2 +1,2 @@
 # Computer-Graphics
-Worked on a CTHEAD data. passed a ray tracer through the data file to produce a ct scan of the skull.
+Worked on a ray tracer/ volume renderer in my computer Graphics module.
